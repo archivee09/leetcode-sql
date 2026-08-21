@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 5 | 5 | 0 | 0 |
+| 6 | 6 | 0 | 0 |
 
 ## Activity
 
@@ -15,13 +15,13 @@
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-21 | 5 |
+| 2026-08-21 | 6 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 5 | 100% |
+| Database | 6 | 100% |
 
 ## Topics
 
@@ -33,7 +33,7 @@
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 0 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Database](Topics/database/) | 5 |
+| [Database](Topics/database/) | 6 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 0 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 0 |
