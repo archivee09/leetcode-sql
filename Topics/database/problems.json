@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-21T14:24:35.227Z",
+  "updatedAt": "2026-08-21T14:24:59.202Z",
   "problems": [
     {
       "frontendId": "584",
@@ -43,6 +43,26 @@
           "path": "0595-big-countries/0595-big-countries.sql",
           "sha": "5e37f7923557c2dd5d21473626749d92a83313df",
           "lastSyncedAt": "2026-08-21T14:24:35.227Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1148",
+      "title": "Article Views I",
+      "slug": "article-views-i",
+      "problemName": "1148-article-views-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/article-views-i/",
+      "folderPath": "1148-article-views-i/",
+      "readmePath": "1148-article-views-i/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1148-article-views-i.sql",
+          "path": "1148-article-views-i/1148-article-views-i.sql",
+          "sha": "f7538ef3ad7001197693626961e2a6aad619a2bd",
+          "lastSyncedAt": "2026-08-21T14:24:59.202Z"
         }
       ]
     },
